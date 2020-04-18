@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [grafik](https://docs.google.com/spreadsheets/d/1Me9A22mr_QdFPKGssAvCsEBKc2a8W9v7k1cJfdzytUY/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Bulduğum denklem **x=-1,23t^2+1,82t-2,78E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? **Fiziksel olarak a ivmeyi, b ilk hızı, c ilk konumu verir.** Sizce niçin a'nın değeri negatif? **a ivmeye eşit olduğundan dolayı ivme negatifse a da negatif, ivme pozitifse a da pozitif olmalıdır. Bu denklemde a negatiftir, çünkü cisim yavaşlayarak ilerlediği için ivme negatif olmalıdır.**  
+a) Bulduğum denklem **x=-1,23t^2+1,82t-2,78E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? **Fiziksel olarak a ivmenin yarısını, b ilk hızı, c ilk konumu verir.** Sizce niçin a'nın değeri negatif? **İvme a'ya bağlı olduğundan dolayı a negatifse ivme de negatif, a pozitifse ivme de pozitif olmalıdır. Bu denklemde a negatiftir, çünkü cisim yavaşlayarak ilerlediği için ivme negatif olmalıdır.**  
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **a=-1,23 sabit sayı olduğu için ivme sabittir.**     
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **a ve b değişir, c sabit kalırdı.**
 
