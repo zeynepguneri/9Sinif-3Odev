@@ -53,7 +53,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 3) İvme'yi ne buldunuz? **-2,361** Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. **3,497** 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
-1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? **117 mili saniye** Konumdaki ölçüm hatam sizce kaç cm'dir? **22,455 cm** 
+1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? **1 mili saniye** Konumdaki ölçüm hatam sizce kaç cm'dir? **0,1 cm** 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:
